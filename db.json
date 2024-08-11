@@ -1,67 +1,22 @@
 {
   "products": [
     {
-      "id": "10",
-      "name": "Product 10",
-      "price": 11.99,
-      "image": "https://picsum.photos/id/19/300/300",
-      "description": "This is product 10",
-      "discount": 0.25,
-      "quantity": 90,
-      "featured": true,
-      "categoryId": 2
+      "name": "Product 1022312312331231231222222",
+      "price": "11.991231231232",
+      "description": "This is product 103123123213123123123",
+      "id": "10"
     },
     {
-      "name": "Sản phẩm 11",
-      "price": "1100",
-      "categoryId": 2,
-      "description": "Mô tả sản phẩm 11",
-      "discount": "50",
-      "countInStock": "1000",
-      "featured": false,
-      "id": "11"
+      "name": "tên sp mới",
+      "price": "500",
+      "description": "xinhhhh",
+      "id": "72de"
     },
     {
-      "name": "Sản phẩm 12",
-      "price": "1200",
-      "categoryId": 2,
-      "description": "Mô tả sản phẩm 12",
-      "discount": "40",
-      "countInStock": "10",
-      "featured": true,
-      "id": "12"
-    },
-    {
-      "name": "Sản phẩm 16",
-      "price": "1600",
-      "categoryId": 1,
-      "description": "Mô tả sản phẩm",
-      "discount": "100",
-      "countInStock": "100",
-      "featured": true,
-      "id": "14"
-    },
-    {
-      "name": "test ",
-      "price": "120",
-      "description": "test description",
-      "id": "15"
-    },
-    {
-      "name": "312",
-      "price": "3211",
-      "description": "31231312",
-      "id": "16"
-    }
-  ],
-  "categories": [
-    {
-      "id": "1",
-      "name": "Danh mục 1"
-    },
-    {
-      "id": "2",
-      "name": "Danh mục 2"
+      "name": "tên sp mới  2",
+      "price": "1230000",
+      "description": "ahihi",
+      "id": "e734"
     }
   ]
 }

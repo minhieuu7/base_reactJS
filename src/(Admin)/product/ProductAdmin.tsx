@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Edit = () => {
+const ProductAdmin = () => {
   return (
     <div>
       <h1>Products Admin</h1>
@@ -8,4 +8,4 @@ const Edit = () => {
   )
 }
 
-export default Edit
+export default ProductAdmin
